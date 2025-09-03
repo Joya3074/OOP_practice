@@ -1,3 +1,8 @@
+/*Create a class named Vehicle with data members to store the number of wheels and
+the top speed of a vehicle. Create another class named Car that inherits from the
+Vehicle class and has a data member to store the number of doors. Write a program to
+create a Car object and print out its number of wheels, top speed, and number of
+doors.*/
 #include<iostream>
 using namespace std;
 class Vehicle
