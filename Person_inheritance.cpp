@@ -1,3 +1,7 @@
+/*Create a class named Person with a data member to store the name of the person.
+Create another class named Student that inherits from the Person class and has a data
+member to store the student ID. Write a program to create a Student object and print
+out their name and ID.*/
 #include<iostream>
 using namespace std;
 class Person
